@@ -2,8 +2,8 @@
 #include <Espalexa.h>
 
 // --- WiFi Configuration ---
-const char* ssid = "SamPay";
-const char* password = "Mres1dence01";
+const char* ssid = "-----";
+const char* password = "-------";
 
 // --- MOSFET Pin Definitions ---
 #define PIN_BEDROOM 13 
